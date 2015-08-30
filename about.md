@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-CS Student at the University of Texas at Austin. s
+CS Student at the University of Texas at Austin.
 
 ### Contact me
 
